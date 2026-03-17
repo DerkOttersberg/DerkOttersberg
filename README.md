@@ -1,68 +1,53 @@
 # Derk Ottersberg
 
-Embedded developer focused on microcontrollers, hardware systems, and low-level software.
-
-I work across the full stack when necessary, but my main focus is designing and building reliable embedded systems that interact with real hardware. My work often combines firmware development, electronics, backend services, and custom tooling.
-
-Alongside professional work, I build experimental projects such as game mods and educational reverse-engineering tools to better understand how complex software systems work internally.
+Embedded developer working with microcontrollers, hardware systems, and low-level software.  
+Experience spans firmware, hardware design, backend systems, and full-stack development.  
+I also build experimental projects such as game mods and reverse-engineering tools for educational purposes.
 
 ---
 
-## Areas of Experience
+## Expertise
 
-Embedded Systems  
-- Microcontroller firmware development  
-- Hardware and actuator system design  
-- Embedded architecture and electronics integration  
-- Low-level debugging and system integration  
+Embedded Systems
+- Microcontroller firmware (C / C++)
+- Hardware and actuator system design
+- Embedded communication (UART, SPI, I2C)
+- System integration and debugging
 
-Software Engineering  
-- Backend system development  
-- REST API design and integration  
-- Database architecture and data systems  
-- Web applications and full-stack development  
-
-Experimental / Hobby Projects  
-- Game modding  
-- Reverse engineering for educational purposes  
-- Systems exploration and custom tooling  
+Software Development
+- Backend services and REST APIs
+- Database design
+- Web applications and tooling
+- Full-stack development
 
 ---
 
 ## Technologies
 
-Embedded / Hardware
+Languages
 - C / C++
-- Microcontroller platforms
-- Serial communication (UART, SPI, I2C)
-- Hardware integration and actuator control
-
-Software
 - Java
 - Python
 - JavaScript
-- REST APIs
-- Database systems
 
-Tools
+Tools / Platforms
 - Git
 - Linux
+- Microcontroller platforms
 - Hardware debugging tools
-- Build systems and automation
 
 ---
 
 ## Interests
 
-Embedded architectures  
+Embedded architecture  
 Hardware–software interaction  
 Systems optimization  
-Game engine internals and modding  
-Understanding how complex software and hardware systems work
+Game modding and reverse engineering
 
 ---
 
-## GitHub Statistics
+## Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DerkOttersberg&show_icons=true&theme=default)
 
@@ -71,7 +56,6 @@ Understanding how complex software and hardware systems work
 ---
 
 ## Mod Statistics
-
 
 <img alt="Téléchargements sur Modrinth" src="https://img.shields.io/modrinth/dt/irEfSOdD?style=for-the-badge&amp;logo=modrinth&amp;label=Modrinth&amp;labelColor=16181c&amp;color=34363c">
 
