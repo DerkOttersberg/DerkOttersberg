@@ -66,3 +66,11 @@ Game modding and reverse engineering
 Email: derkottersberg@outlook.com  
 Discord: Fourskin#0987  
 GitHub: https://github.com/DerkOttersberg
+
+## License
+
+**All Rights Reserved** for new original material owned by Derk Ottersberg.
+See [LICENSE](LICENSE) and [licensing history](LICENSES/README.md) for prior-license and third-party exceptions.
+
+Public source may be viewed and forked on GitHub. Issues and pull requests are welcome;
+write access to this repository is reserved for the owner.
